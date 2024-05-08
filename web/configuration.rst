@@ -44,7 +44,7 @@ for all expressions on the page, you would use
 
 The sections below describe the different places you could put such a
 configuration.  For information on the options that you can set for
-each of the components, see the :ref:`configuration` pages.
+each of the components, see the :ref:`configuring-mathjax` pages.
 
 
 .. _inline-configuration:
